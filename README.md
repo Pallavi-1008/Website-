@@ -19,7 +19,7 @@
         }
 
         .container {
-            width: 60%;
+            width: 90%;
             max-width: 800px;
             background-color: white;
             padding: 20px;
@@ -33,6 +33,7 @@
             height: 150px;
             border-radius: 50%;
             margin-bottom: 20px;
+            object-fit: cover;
         }
 
         h1 {
@@ -83,6 +84,9 @@
 </head>
 <body>
     <div class="container">
+        <!-- Optional profile image (uncomment and provide actual image source) -->
+        <!-- <img src="your-image.jpg" alt="Pallavi Pakanati" class="profile-image"> -->
+
         <h1>Pallavi Pakanati</h1>
         <h2>Student | Tech Enthusiast | Web Developer</h2>
         <p>
@@ -91,7 +95,7 @@
             organization, while enhancing my own professional growth and development.
         </p>
 
-        <div class="section">
+        <section>
             <div class="section-title">Education</div>
             <ul>
                 <li><strong>Bachelor of Technology - Computer Science Engineering</strong></li>
@@ -103,18 +107,18 @@
                 <li><strong>SSC</strong>, Zilla Parishad High School<br>
                 2020 – 2021 | Nallajerla, Andhra Pradesh, 534112 | GPA: 9.5</li>
             </ul>
-        </div>
+        </section>
 
-        <div class="section">
+        <section>
             <div class="section-title">Skills</div>
             <ul>
                 <li>C, C++, Python, HTML</li>
                 <li>GitHub, SQL, MS Office, Java</li>
                 <li>Data Science</li>
             </ul>
-        </div>
+        </section>
 
-        <div class="section">
+        <section>
             <div class="section-title">Certificates</div>
             <ul>
                 <li>Complete Course on Artificial Intelligence</li>
@@ -122,20 +126,20 @@
                 <li>Cyber Security</li>
                 <li>Artificial Intelligence and Machine Learning</li>
             </ul>
-        </div>
+        </section>
 
-        <div class="section">
+        <section>
             <div class="section-title">Languages</div>
             <ul>
                 <li>English | Telugu</li>
             </ul>
-        </div>
+        </section>
 
-        <div class="section">
+        <section>
             <div class="section-title">Contact</div>
             <p>Email: <a href="mailto:Pallavip99499@gmail.com" class="link">Pallavip99499@gmail.com</a></p>
             <p>Phone: +91 89787 99644</p>
-        </div>
+        </section>
     </div>
 </body>
 </html>
