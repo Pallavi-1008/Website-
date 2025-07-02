@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pallavi Pakanati</title></title>
+    <title>Pallavi Pakanati</title>
     <style>
         body {
-            /* font-family: Arial, sans-serif; */
             font-family: 'Roboto', sans-serif;
             background-color: #f4f4f4;
             color: #333;
@@ -76,26 +75,33 @@
             color: #1a73e8;
             text-decoration: none;
         }
+
+        .link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-       
         <h1>Pallavi Pakanati</h1>
-        <h2>Student | Tech Enthusiast | Web Development</h2>
-        <p>To secure a challenging position in a dynamic organization where I can utilize my technical skills, creativity, and ability to learn quickly, in order to contribute to the growth and success of the organization, while enhancing my own professional growth and development.</p>
+        <h2>Student | Tech Enthusiast | Web Developer</h2>
+        <p>
+            To secure a challenging position in a dynamic organization where I can utilize my technical skills,
+            creativity, and ability to learn quickly, in order to contribute to the growth and success of the
+            organization, while enhancing my own professional growth and development.
+        </p>
 
         <div class="section">
             <div class="section-title">Education</div>
             <ul>
                 <li><strong>Bachelor of Technology - Computer Science Engineering</strong></li>
-                <li> West Godavari Institute of Science and Engineering collage <br>
-                2023 – 2027 | prakasraopalem, Nallajerlla ,Andhra Pradesh,534112 | CGPA: 8.79</li>
-                <li><strong>Pre University Course - MPC</strong></li>
-                <li> A.K.R.G Juniour cpllage <br>
-                2021 – 2023 | Nallajerlla, Andhra Pradesh ,534112| CGPA: 8.0</li>
-                <li><strong>SSC</strong>, Zilla Parishath High School<br>
-                2020 – 2021 | Nallajerla, Andhra Pradesh,534112 | GPA: 9.5</li>
+                <li>West Godavari Institute of Science and Engineering College<br>
+                2023 – 2027 | Prakasaraopalem, Nallajerla, Andhra Pradesh, 534112 | CGPA: 8.79</li>
+                <li><strong>Pre-University Course - MPC</strong></li>
+                <li>A.K.R.G Junior College<br>
+                2021 – 2023 | Nallajerla, Andhra Pradesh, 534112 | CGPA: 8.0</li>
+                <li><strong>SSC</strong>, Zilla Parishad High School<br>
+                2020 – 2021 | Nallajerla, Andhra Pradesh, 534112 | GPA: 9.5</li>
             </ul>
         </div>
 
@@ -103,34 +109,32 @@
             <div class="section-title">Skills</div>
             <ul>
                 <li>C, C++, Python, HTML</li>
-                <li> GitHub,  SQL, MS Office, Java</li>
-                <li> Data Science</li>
+                <li>GitHub, SQL, MS Office, Java</li>
+                <li>Data Science</li>
             </ul>
         </div>
 
         <div class="section">
             <div class="section-title">Certificates</div>
             <ul>
-                <li>complete course on Artificial Intelligence</li>
+                <li>Complete Course on Artificial Intelligence</li>
                 <li>Python Full Stack</li>
-                <li>Cyber security</li>
-                <li>Artificial Intelligence and Machine Learning  </li>
-              
+                <li>Cyber Security</li>
+                <li>Artificial Intelligence and Machine Learning</li>
             </ul>
         </div>
 
         <div class="section">
             <div class="section-title">Languages</div>
             <ul>
-                <li>English | Telugu </li>
+                <li>English | Telugu</li>
             </ul>
         </div>
 
         <div class="section">
             <div class="section-title">Contact</div>
-            <p>Email: <a href="Pallavip99499@gmail.com" class="link">pallavip@gmail.com</a></p>
-            <p>Phone: +91 8978799644</p>
-            
+            <p>Email: <a href="mailto:Pallavip99499@gmail.com" class="link">Pallavip99499@gmail.com</a></p>
+            <p>Phone: +91 89787 99644</p>
         </div>
     </div>
 </body>
